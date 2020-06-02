@@ -1,0 +1,28 @@
+.hdr{
+    background-color: #7a0d2e;
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(255,255,255,1);
+}
+.navbar {
+	margin:0 !important;
+	padding: 2%s !important;
+}
+.navbar-custom {
+    background-color: #7a0d2e;
+}
+.navbar-custom .navbar-brand{
+    font-weight: bold;
+    color: rgba(255,255,255,1);
+}
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,1);
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar-custom .nav-item:hover .nav-link {
+    color: rgba(255,255,255,.8);
+}
+
